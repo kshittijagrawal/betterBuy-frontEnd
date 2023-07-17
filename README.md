@@ -70,6 +70,10 @@ To get started with the BetterBuy Frontend, follow these steps:
 
 5. The frontend should now be running and accessible at the provided local development URL. Open your web browser and navigate to the specified URL to view the BetterBuy website.
 
+## Snapshots
+
+Please refer to the [assets](https://github.com/kshittijagrawal/betterBuy-frontEnd/tree/master/assets) directory to view snapshots of the components. During the snipping process, the backend was not connected to the frontend, preventing the transfer and reflection of data onto the frontend.
+
 ## Customize Configuration
 
 If you need to customize the configuration of the Vue.js project, you can refer to the [Vue CLI Configuration](https://cli.vuejs.org/config/) documentation.
